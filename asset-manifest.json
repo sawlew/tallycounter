@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tallycounter/static/css/main.20f3f4b2.css",
+    "main.js": "/tallycounter/static/js/main.ccb3e6bc.js",
+    "static/js/787.bc7d429a.chunk.js": "/tallycounter/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/tallycounter/index.html",
+    "main.20f3f4b2.css.map": "/tallycounter/static/css/main.20f3f4b2.css.map",
+    "main.ccb3e6bc.js.map": "/tallycounter/static/js/main.ccb3e6bc.js.map",
+    "787.bc7d429a.chunk.js.map": "/tallycounter/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20f3f4b2.css",
+    "static/js/main.ccb3e6bc.js"
+  ]
+}
